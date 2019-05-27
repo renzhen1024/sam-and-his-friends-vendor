@@ -7,8 +7,3 @@ Thumbs.db
 *.sublime-workspace
 *.log
 package-lock.json
-
-docs
-light
-output
-src/views/templates/layout-fingerprinted
