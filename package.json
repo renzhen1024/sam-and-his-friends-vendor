@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "Libs for sam-and-his-friends",
   "scripts": {
+    "publish": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
