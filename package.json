@@ -1,0 +1,23 @@
+{
+  "name": "sam-and-his-friends-vendor",
+  "version": "1.0.0",
+  "description": "Libs for sam-and-his-friends",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tningjs/sam-and-his-friends-vendor.git"
+  },
+  "keywords": [
+    "sam-and-his-friends"
+  ],
+  "author": {
+    "name": "tningjs",
+    "url": "https://github.com/tningjs"
+  },
+  "bugs": {
+    "url": "https://github.com/tningjs/sam-and-his-friends-vendor/issues"
+  },
+  "homepage": "https://github.com/tningjs/sam-and-his-friends-vendor#readme"
+}

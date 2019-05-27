@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.log
+package-lock.json
+
+docs
+light
+output
+src/views/templates/layout-fingerprinted
